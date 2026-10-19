@@ -15,6 +15,7 @@ You’ll leave with a portfolio-ready project applicable to E
 commerce, SaaS, Fintech and Adtech industries. 
 
 ROADMAP  
+
 1. Connect SQL database to Python – pandas and sqlite3 
 2. Data import using SQL query in Python – pandas and sqlite3  
 3. Data Cleaning – numpy and pandas  
@@ -49,6 +50,7 @@ future
 • "When": Finding the "danger zone" – point when a user leave 
 
 INSIGHTS 
+
 Insights 
 • Churn Rate: 28.6%   |  Retention Rate:  71.4% 
 • Most of the churn is from basic subscription plan – nothing to worry in terms of major revenue impact  
