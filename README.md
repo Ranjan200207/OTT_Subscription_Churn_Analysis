@@ -28,6 +28,7 @@ ROADMAP
 in resume
 
 SUMMARY 
+
 Engineered an end-to-end churn analytics pipeline for an OTT 
 subscription dataset (20+ KPIs), segmented the customer 
 base into risk tiers using composite churn scores, exposed a 
@@ -38,6 +39,7 @@ term revenue yield. Identified a 28.6% overall churn rate. The
 retention rate is around 71.4%.
 
 CHURN DEFINITION BY BUISNESS 
+
 Churn analysis is the process of figuring out why customers 
 stop doing business with you. For this, we only need to look at 
 three things:  
