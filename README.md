@@ -1,11 +1,14 @@
 ## OTT_Subscription_Churn_Analysis
 The Business Challenge 
+
 In the hyper-competitive OTT landscape (Netflix, Hotstar, Prime), retention is the only way to survive. You will act as a Data Analyst tasked with identifying high-risk subscribers using a multi-dimensional dataset (Customer demographics, Subscription tiers, and Support escalations).  
 
 Core Tech Stack  
+
 SQL & Python Integration (numpy, pandas, sqlite3, matplotlib, seaborn), Performance Engineering (data cleaning, feature engineering, analytics), Behavioral Visualization, Writing Actionable Insights  
 
 Project Milestones 
+
 • Relational Data Extraction: Connecting Python to SQL databases to pull multi-table datasets.   
 • Advanced Feature Engineering: Data imports, calculating tenure, churn rates, and customer aging.  
 • Executive Reporting: Translating technical findings into billion-dollar business insights. 
@@ -62,6 +65,7 @@ Insights
 • monthly vs annual churn = 55.6% vs 8.3%
 
 Action Items 
+
 • Check what happened in Karnataka – was there any increase in price, user complaints, tech issues, etc  
 • Did we increased subs price for Basic plan or recently made any changes – specially in sep month?  
 • Check what competitor is doing – bcoz one user has moved to competitor  
